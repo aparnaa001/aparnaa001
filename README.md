@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Frontend**
 
 - 📫 How to reach me **aparnasasi157@gmail.com**
 

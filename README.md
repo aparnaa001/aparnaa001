@@ -7,7 +7,6 @@
 ---
 
 - 🔭 I’m currently working on **MERN stack projects**
-- 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **JavaScript, React, Python, or Frontend Development**
 - 📫 How to reach me: **aparnasasiofficial@gmail.com**
 

@@ -12,9 +12,10 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me: https://aparnasasi-portfolio.netlify.app/</h3>
+<h2 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<!-- Add your social links here if needed -->
+ https://aparnasasi-portfolio.netlify.app/
+  
 </p>
 
 ---

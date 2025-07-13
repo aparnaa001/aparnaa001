@@ -9,11 +9,10 @@
 - 🔭 I’m currently working on **MERN stack projects**
 - 💬 Ask me about **JavaScript, React, Python, or Frontend Development**
 - 📫 How to reach me: **aparnasasiofficial@gmail.com**
-- 🔍 Curious? See My Portfolio Here: https://aparnasasi-portfolio.netlify.app/
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with me: https://aparnasasi-portfolio.netlify.app/</h3>
 <p align="left">
 <!-- Add your social links here if needed -->
 </p>

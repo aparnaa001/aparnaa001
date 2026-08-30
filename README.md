@@ -1,40 +1,39 @@
 <h1 align="center">Hi 👋, I'm Aparna Sasi</h1>
-<h3 align="center">Advanced Analyst at EY | Tech Enthusiast | Aspiring Full Stack Developer</h3>
+<h3 align="center">Advanced Analyst at EY | Automation Developer | Excel VBA & Python Enthusiast</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 👩‍💻 About Me
 
-💼 Currently working as an **Advanced Analyst at EY** with experience in automation and process optimization.
+💼 I'm an **Advanced Analyst at EY**, specializing in process automation and workflow optimization.
 
-💻 Passionate about **Full Stack Development** and continuously improving my skills in modern web technologies.
+⚙️ I enjoy developing automation solutions using **Excel VBA**, **Python**, and data-driven tools to improve efficiency and reduce manual effort.
 
-🚀 I enjoy building applications, automating repetitive tasks, and solving real-world problems through technology.
+📊 Passionate about solving business problems through automation, scripting, and analytics.
 
-🌱 Currently learning and building projects using the **MERN Stack**.
+🌱 Currently expanding my knowledge in **Python**, **automation frameworks**, and modern productivity tools.
 
-⚡ I believe in continuous learning and writing clean, efficient code.
+💡 I enjoy learning new technologies and building practical solutions that make everyday work easier.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🌱 Enhancing my **MERN Stack** development skills
-- 💻 Building full-stack web applications
-- 🤖 Automating workflows using **Excel VBA**
-- 📚 Improving my knowledge of modern JavaScript and backend development
+- ⚡ Automating Excel-based business processes using **VBA**
+- 🐍 Building automation scripts with **Python**
+- 📈 Improving reporting and data processing workflows
+- 🔍 Exploring automation tools and AI-powered productivity solutions
 
 ---
 
 ## 💬 Ask Me About
 
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Excel VBA Automation
+- Excel VBA
+- Process Automation
 - Python
-- Frontend Development
+- Excel
+- Data Analysis
+- Workflow Optimization
 
 ---
 
@@ -44,36 +43,33 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
+## 🛠️ Skills & Tools
 
 ### Programming Languages
-- JavaScript
-- Python
 - VBA
+- Python
+- JavaScript
+
+### Automation & Productivity
+- Excel VBA
+- Microsoft Excel
+- Process Automation
+- Workflow Optimization
+
+### Data & Analytics
+- Data Analysis
+- Data Cleaning
+- Reporting
+- Business Process Improvement
 
 ### Tools
-- Git
-- GitHub
+- Microsoft Excel
+- Git & GitHub
 - VS Code
-- Excel VBA
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
@@ -92,4 +88,5 @@
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! I'm always eager to learn, build, and collaborate on exciting projects.*
+⭐ **Thanks for visiting my GitHub profile!**  
+I'm always interested in learning new technologies, building automation solutions, and collaborating on projects that improve efficiency and solve real-world problems.
